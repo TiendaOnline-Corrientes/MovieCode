@@ -1,4 +1,4 @@
-#This is a rest assured project made by MARCOS BILLORDO
+#This is project made by MARCOS BILLORDO
 the goal of the present project is showed my skills in technologies
 like JAVA, SELENIUM, TESTNG AND CUCUMBER.
 #RUN TEST
